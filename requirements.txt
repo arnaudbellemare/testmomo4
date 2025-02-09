@@ -1,0 +1,5 @@
+ccxt 
+streamlit
+pandas 
+numpy
+statsmodels
